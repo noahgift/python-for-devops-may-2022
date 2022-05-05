@@ -1,4 +1,6 @@
 [![Test Multiple Python Versions](https://github.com/noahgift/python-for-devops-may-2022/actions/workflows/main.yml/badge.svg)](https://github.com/noahgift/python-for-devops-may-2022/actions/workflows/main.yml)
+
+[![AWS Code build](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiMDNSZkdkRmZ2SGVGaTRqd0d5dEwzM21uUWsySVBQK0NwdGQ0Y0R5NytxRHpqVXJTYWE5NTdsNU5FeHZBOUFMUFRhaFVrRWppYTZieXpNYTZ5SGJ3aWJFPSIsIml2UGFyYW1ldGVyU3BlYyI6Ik5US2dZeTgyd3pMS2VPQWYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 # python-for-devops-may-2022
 From Zero Repository for doing Python DevOps work
 
@@ -38,3 +40,8 @@ Build out python project scaffold:
 ## Microservices
 
 ## Containerized Continuous Delivery
+
+`docker run -p 127.0.0.1:8080:8080 a5105a47ca89`
+
+
+
