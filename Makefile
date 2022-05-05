@@ -11,4 +11,7 @@ test:
 format:
 	black *.py devopslib/*.py
 
-all: install lint test format
+deploy:
+	echo "deploy goes here"
+
+all: install lint test format deploy
